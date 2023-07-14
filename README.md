@@ -1,11 +1,14 @@
 # Information-Security
 ### Repository for CENG418 course that I have taken at IZTECH
+### This course covers the fundamental attack and defense techniques
+### and fundamentals of cryptographic algorithms and protocols
+### along with their applications in different security topics
 
 ## Course Contents
 1. Introduction: An overview of information security
 2. Cryptography Basics
 3. Symmetrical Cryptography
-4. Hashi MAC & Secure Channels
+4. Hash MAC & Secure Channels
 5. Asymmetrical Cryptography
 6. Digital Signatures
 7. MIDTERM-I
