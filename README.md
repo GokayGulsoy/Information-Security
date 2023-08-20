@@ -20,4 +20,4 @@
 13. Database Security
 14. MIDTERM-II
 
-[Click the following link to go to Lawrie Brown and Stalling's textbook (Computer Security)](/Textbooks/Computer_Security.pdf)
+[Click the following link to go to Lawrie Brown and Stalling's textbook (Computer Security)](/Textbooks)
